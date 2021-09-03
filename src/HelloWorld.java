@@ -4,10 +4,11 @@ public class HelloWorld {
         for (int i = 0;i<=10; i++){
             System.out.println(i);
         }
-        System.out.println("petra teller til tjue");
-        for (int i = 1;i<=20; i++) {
-            System.out.println(i);
+        System.out.println("petra teller til femten");
+        for (int i = 11;i<=15; i++) {
+            System.out.println("petra sier" + i);
         }
+
 
     }
 }
